@@ -1,0 +1,2 @@
+query_url
+"https://api.nytimes.com/svc/search/v2/articlesearch.json?api-key=Hfz4iG7HrhoXOhMc8gl69Xzob1O0ptsY&q=section_name:""Movies"" AND type_of_material:""Review"" AND headline:""love""&fq=section_name:""Movies"" AND type_of_material:""Review"" AND headline:""love""&sort=newest&fl=headline,web_url,snippet,source,keywords,pub_date,byline,word_count&begin_date=20130101&end_date=20230531"
