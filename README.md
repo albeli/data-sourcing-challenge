@@ -1,7 +1,3 @@
-To create a `README.md` for your project, you should include an overview of the project, detailed instructions on how to set it up and run it, and any other relevant information. Here's a template to help you get started:
-
----
-
 # Data Sourcing Challenge
 
 ## Overview
